@@ -1,2 +1,2 @@
 # OptionSelector
-![image](https://github.com/leeroGG/OptionSelector/raw/master/effect.jpg)
+![image](https://github.com/leeroGG/OptionSelector/raw/master/effect.gif)
